@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Atualmente um desenvolvedor</p>
-
-###
-
 <h4 align="left">Sobre mim</h4>
 
 ###
