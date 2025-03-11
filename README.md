@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente Desenvolvedor  Full Stack</p>
+<p align="left">Atualmente Desenvolvedor Full Stack</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Graduando em ADS<br>✨ Vivendo intensamente<br>📚 Programando uma vida feliz</p>
+<p align="left">🎓 Graduando em ADS.<br>✨ Vivendo intensamente.<br>📚 Programando uma vida feliz!</p>
 
 ###
 
