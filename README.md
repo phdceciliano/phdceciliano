@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Graduando em ADS.<br>✨ Utilizando linguagens Python e Java.<br> !</p>
+<p align="left">🎓 Graduando em ADS.<br>✨ Utilizando linguagens Python e Java.<br></p>
 
 ###
 
