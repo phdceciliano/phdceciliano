@@ -9,7 +9,9 @@
 ## 🚀 Sobre Mim
 
 🎓 Atualmente estou no 4° período de Análise e Desenvolvimento de Sistemas pela PUCPR.
+
 ✨ Utilizo principalmente as linguagens Java e Python para desenvolver projetos e aprender novas tecnologias.
+
 📊 Atuando no desenvolvimento de soluções inteligentes com dados, apoiando decisões empresariais de forma eficiente.
 
 ---
