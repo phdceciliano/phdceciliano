@@ -36,7 +36,9 @@
 ### 🐍 **Jogo da Cobrinha em Python**
 Um clássico Snake Game feito com Pygame.  
 🔗 [Ver projeto](https://github.com/phdceciliano/Py.game)
-
+## 📚 ERP Biblioteca Virtual — Java
+Sistema de biblioteca digital com funcionalidades completas, como empréstimos, fila de espera, histórico de navegação e recomendação inteligente de livros usando algoritmos de grafos.
+🔗 [Ver projeto](https://github.com/phdceciliano/ERP-Biblioteca)
 
 ## 📊 Estatísticas do GitHub
 
