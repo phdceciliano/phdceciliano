@@ -39,7 +39,7 @@ Um clássico Snake Game feito com Pygame.
 ### 📚 ERP Biblioteca Virtual — Java
 Sistema de biblioteca digital com funcionalidades completas, como empréstimos, fila de espera, histórico de navegação e recomendação inteligente de livros usando algoritmos de grafos.
 🔗 [Ver projeto](https://github.com/phdceciliano/ERP-Biblioteca)
-### 📊 Previsão de Aluguel de Bicicletas — Seoul Bike Sharing
+### 📊 Dataset — Seoul Bike Sharing
 Este projeto tem como objetivo prever a quantidade de bicicletas alugadas por hora em Seul, Coreia do Sul, utilizando algoritmos de **Machine Learning** e dados meteorológicos/temporais.
 🔗 [Ver análise completa](https://github.com/phdceciliano)
 
