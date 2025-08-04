@@ -34,7 +34,7 @@
 ## 🌟 Projetos em Destaque
 
 ### 🐍 **SNAKE 98 — Python**
-Um clássico Snake Game feito com Pygame.  
+Um clássico, o jogo da "cobrinha" (Snake Game) recriado com **Python** usando a biblioteca **Pygame**. Inspirado na estética e experiência dos celulares Nokia.
 🔗 [Ver projeto](https://github.com/phdceciliano/Py.game)
 ### 📚 ERP Biblioteca Virtual — Java
 Sistema de biblioteca digital com funcionalidades completas, como empréstimos, fila de espera, histórico de navegação e recomendação inteligente de livros usando algoritmos de grafos.
