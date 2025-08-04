@@ -41,7 +41,7 @@ Sistema de biblioteca digital com funcionalidades completas, como empréstimos, 
 🔗 [Ver projeto](https://github.com/phdceciliano/ERP-Biblioteca)
 ### 📊 Dataset — Seoul Bike Sharing
 Este projeto tem como objetivo prever a quantidade de bicicletas alugadas por hora em Seul, Coreia do Sul, utilizando algoritmos de **Machine Learning** e dados meteorológicos/temporais.
-🔗 [Ver projeto](https://github.com/phdceciliano)
+🔗 [Ver projeto](https://github.com/phdceciliano/Analise-de-dados-Dataset-seoul_bike_data)
 
 
 ## 📊 Estatísticas do GitHub
