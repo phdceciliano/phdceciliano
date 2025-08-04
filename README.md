@@ -33,7 +33,7 @@
 
 ## 🌟 Projetos em Destaque
 
-### 🐍 **Jogo da Cobrinha em Python**
+## 🐍 **SNAKE 98 — Python**
 Um clássico Snake Game feito com Pygame.  
 🔗 [Ver projeto](https://github.com/phdceciliano/Py.game)
 ## 📚 ERP Biblioteca Virtual — Java
