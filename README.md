@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phdceciliano)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopedroceciliano@gmail.com)
 
-
 ## 🚀 Sobre Mim
 
 🎓 Atualmente estou no 4° período de Análise e Desenvolvimento de Sistemas pela PUCPR.
@@ -40,13 +39,13 @@ Este projeto tem como objetivo prever a quantidade de bicicletas alugadas por ho
 
 
 ## 🎯 Objetivos Profissionais
-Tornar-me um desenvolvedor Fullstack completo
-Aprimorar habilidades em arquitetura de software
-Contribuir com projetos reais escaláveis e com impacto
+Tornar-me um desenvolvedor Fullstack completo;
+Aprimorar habilidades em arquitetura de software;
+Contribuir com projetos reais escaláveis e com impacto.
 
 ## ✨ Curiosidades
-Sempre aprendendo algo novo, atualmente estudando DEVOPS, JavaScript, Node, Java, Spring, Segurança em Sistemas Web.
-Gosto de resolver problemas com soluções simples e elegantes se possível.
+Sempre aprendendo algo novo, atualmente estudando DEVOPS, JavaScript, Node, Java, Spring, Segurança em Sistemas Web;
+Gosto de resolver problemas com soluções simples e elegantes se possível;
 Aberto a colaborações, freelas e desafios técnicos !!
 
 ## 📫 Contato
