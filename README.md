@@ -1,20 +1,18 @@
-# 👋 Olá, eu sou o Pedro Henrique Ceciliano!
+# 👋 Olá, eu sou o Pedro Ceciliano!
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phdceciliano)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopedroceciliano@gmail.com)
 
 
----
-
 ## 🚀 Sobre Mim
 
 🎓 Atualmente estou no 4° período de Análise e Desenvolvimento de Sistemas pela PUCPR.
 
-✨ Utilizo principalmente as linguagens Java e Python para desenvolver projetos e aprender novas tecnologias.
+✨ Utilizo principalmente as linguagens Java, Python e JavaScript para desenvolver projetos e aprender novas tecnologias.
 
-📊 Atuando no desenvolvimento de soluções inteligentes com dados, apoiando decisões empresariais de forma eficiente.
+📊 Atuando no desenvolvimento de soluções inteligentes com dados, apoiando decisões de forma eficiente.
 
----
 
 ## 🛠 Habilidades e Tecnologias
 
@@ -33,9 +31,6 @@
 
 ## 🌟 Projetos em Destaque
 
-### 🐍 **SNAKE 98 — Python**
-Um clássico, o jogo da "cobrinha" (Snake Game) recriado com **Python** usando a biblioteca **Pygame**. Inspirado na estética e experiência dos celulares Nokia.
-🔗 [Ver projeto](https://github.com/phdceciliano/Py.game)
 ### 📚 ERP Biblioteca Virtual — Java
 Sistema de biblioteca digital com funcionalidades completas, como empréstimos, fila de espera, histórico de navegação e recomendação inteligente de livros usando algoritmos de grafos.
 🔗 [Ver projeto](https://github.com/phdceciliano/ERP-Biblioteca)
@@ -44,18 +39,15 @@ Este projeto tem como objetivo prever a quantidade de bicicletas alugadas por ho
 🔗 [Ver projeto](https://github.com/phdceciliano/Analise-de-dados-Dataset-seoul_bike_data)
 
 
-## 📊 Estatísticas do GitHub
+## 🎯 Objetivos Profissionais
+Tornar-me um desenvolvedor Fullstack completo
+Aprimorar habilidades em arquitetura de software
+Contribuir com projetos reais escaláveis e com impacto
 
-![phdceciliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phdceciliano&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdceciliano&layout=compact&theme=tokyonight)
-
----
-
-## 📱 Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedro_ceciliano)
-
----
+## ✨ Curiosidades
+Sempre aprendendo algo novo, atualmente estudando DEVOPS, JavaScript, Node, Java, Spring, Segurança em Sistemas Web.
+Gosto de resolver problemas com soluções simples e elegantes se possível.
+Aberto a colaborações, freelas e desafios técnicos !!
 
 ## 📫 Contato
 
